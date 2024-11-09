@@ -5,7 +5,7 @@ import pineaple from './assets/Image.jpg'
 import grapes from './assets/Grapes.jpg'
 import watermelon from './assets/water melon.jpg'
 
-const foods = [
+const Food = [
     { id : 1,
         Name :"APPLE",
         Price : 500,
@@ -57,4 +57,4 @@ const foods = [
     
     },
 ]
-export default  foods
+export default  Food
